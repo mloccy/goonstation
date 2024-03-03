@@ -1971,7 +1971,7 @@ ABSTRACT_TYPE(/datum/chameleon_suit_pattern)
 		name = "Quartermaster"
 		jumpsuit_type = new/datum/chameleon_jumpsuit_pattern/rank/cargo
 		hat_type = new/datum/chameleon_hat_pattern
-		suit_type = new/datum/chameleon_suit_pattern
+		suit_type = new/datum/chameleon_suit_pattern/hoodie
 		glasses_type = new/datum/chameleon_glasses_pattern
 		shoes_type = new/datum/chameleon_shoes_pattern
 		gloves_type = new/datum/chameleon_gloves_pattern
